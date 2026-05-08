@@ -1,0 +1,1 @@
+# Tools for vacancy/company parser and all "external" works
